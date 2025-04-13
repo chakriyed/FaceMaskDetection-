@@ -27,9 +27,9 @@ This project utilizes a YOLO model to detect whether individuals are wearing mas
    You can download the dataset from Kaggle:
    [Face Mask Detection Dataset](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection)
    
-   Ensure you have the dataset downloaded and structured correctly. Place it in the following directory:
+   Ensure you have the dataset downloaded and structured correctly. Place it in the following directory(or any suitable directory):
    ```
-   /Users/chakriyedluri/Downloads/archive/
+   /Users/Downloads/mask detection/
    ```
 
 4. **Download the YOLO Weights**:
